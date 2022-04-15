@@ -1,3 +1,4 @@
+#https://fortnitepy.readthedocs.io/en/latest/intro.html にあるものです
 import fortnitepy
 import json
 import os
